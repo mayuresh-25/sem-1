@@ -1,7 +1,7 @@
 #include<stdio.h>
-{/* NAME: Mavuzeeh Devzukakan
+{/* NAME: Mavuresh Devrukhkar
 COMPS DIV: C
-ROLL NO: 60 VIN: 25-2
+ROLL NO: 60 VIN: 251P071
 */
 void counter ()
 static int count =0; count++;
